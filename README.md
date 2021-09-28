@@ -36,4 +36,10 @@ If the four LEDs are A, B, C and D then the turn order of lights should be: ABCD
 * Circuit for Exercise 4.3
     https://www.tinkercad.com/things/gl0y6lZMnnl-lab-43/editel?sharecode=CW2nClj25FCO0mWcIOdQPc0t1whGE1OvBzaqvgHVcQY
 
+### 05 AVR Analog-to-Digital Converter (ADC)
+* Circuit for Exercise 5.1
+    https://www.tinkercad.com/things/3IuFEN7lTBw-51/editel?sharecode=XR0BPpFg-wmOx5MA3Eud7vY0PrAL1YlRpYFiC3ItGck
+* Circuit for Exercise 5.2
+    https://www.tinkercad.com/things/5F8b5gazsBv-52/editel?sharecode=-MMcRn5EovCtM0gdPoe_j7s1QKLShTKkwqIwkWoGq_k
+
 
