@@ -45,6 +45,10 @@ If the four LEDs are A, B, C and D then the turn order of lights should be: ABCD
 ### 06 AVR Serial Communication
     Need a serial monitor (Used arduino IDE in haedware implementation)
 
-### 07 
+### 07 AVR EEPROM programming
+* Circuit for Exercise 6.1
+    Used a serial monitor
+* Circuit for Exercise 6.2
+    https://www.tinkercad.com/things/2GrOh2cRZR7-lab-73/editel?sharecode=vFKy2u16M-40G2WyOyXowiEO2ESz37XtnQrWQT9bh9c
 
 
