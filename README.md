@@ -1,4 +1,7 @@
 # Embedded-Systems
+
+#### Available Tinkercad links are included.
+
 ### 01 Programming AVR Microcontrollers
 * Connect four (4) LEDs to Port B and blink all of them simultaneously.
 * Using four (4) LEDs, implement a "Knight Rider" style display.
@@ -24,4 +27,13 @@ If the four LEDs are A, B, C and D then the turn order of lights should be: ABCD
     https://www.tinkercad.com/things/jXx8JbK0PrG-lab-35/editel?sharecode=AntUnyczelRaq3kjfRMsYPMFRGdqjV7PuZSI_h6Pt78
 * Circuit for Exercise 3.6 
     https://www.tinkercad.com/things/6YjdxNcFlEV-lab-36/editel?sharecode=fLH7TAzqrVUxywlbiFUlMjARm-Ta4aEA1mzbwBEVELk
+
+### 04  AVR Pulse Width Modulation (PWM)
+* Circuit for Exercise 4.1
+    https://www.tinkercad.com/things/f1HNAhzy7uh-lab-41/editel?sharecode=wMFKrADMzTYqD0hFNlkpdyHdhIwcVN8vgi4JIiY8_8I
+* Circuit for Exercise 4.2
+    https://www.tinkercad.com/things/dTDn8F5uWT6-lab-42/editel?sharecode=VlwnrRCLbFxjxQ7ymxZaVdkuvPoL5eVxlD3qt86kzT8
+* Circuit for Exercise 4.3
+    https://www.tinkercad.com/things/gl0y6lZMnnl-lab-43/editel?sharecode=CW2nClj25FCO0mWcIOdQPc0t1whGE1OvBzaqvgHVcQY
+
 
