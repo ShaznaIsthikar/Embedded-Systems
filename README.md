@@ -42,4 +42,9 @@ If the four LEDs are A, B, C and D then the turn order of lights should be: ABCD
 * Circuit for Exercise 5.2
     https://www.tinkercad.com/things/5F8b5gazsBv-52/editel?sharecode=-MMcRn5EovCtM0gdPoe_j7s1QKLShTKkwqIwkWoGq_k
 
+### 06 AVR Serial Communication
+    Need a serial monitor (Used arduino IDE in haedware implementation)
+
+### 07 
+
 
